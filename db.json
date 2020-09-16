@@ -1,0 +1,96 @@
+{
+    "current_page": 1,
+    "data": [
+        {
+            "id": 102,
+            "price": "25000",
+            "name": "text",
+            "address": "Av. Balmaceda 5521, Valdivia, Los Ríos, Chile",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnLruiHoB3cQk7iFGrez0JLlpHJbvhZJKGCRHVX2UUa2bxoe4G&usqp=CAU",
+            "type": "text",
+            "evaluation": "3"
+        },
+        {
+            "id": 103,
+            "price": "29000",
+            "name": "text",
+            "address": "Las Animas, Valdivia, Los Ríos, Chile",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnLruiHoB3cQk7iFGrez0JLlpHJbvhZJKGCRHVX2UUa2bxoe4G&usqp=CAU",
+            "type": "text",
+            "evaluation": "1"
+        },
+        {
+            "id": 104,
+            "price": "26000",
+            "name": "text",
+            "address": "Las Animas, Valdivia, Los Ríos, Chile",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnLruiHoB3cQk7iFGrez0JLlpHJbvhZJKGCRHVX2UUa2bxoe4G&usqp=CAU",
+            "type": "text",
+            "evaluation": "1"
+        },
+        {
+            "id": 105,
+            "price": "22000",
+            "name": "text",
+            "address": "Niebla, Valdivia, Los Ríos, Chile",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnLruiHoB3cQk7iFGrez0JLlpHJbvhZJKGCRHVX2UUa2bxoe4G&usqp=CAU",
+            "type": "text",
+            "evaluation": "1"
+        },
+        {
+            "id": 106,
+            "price": "21000",
+            "name": "text",
+            "address": "Corral, Los Ríos, Chile",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnLruiHoB3cQk7iFGrez0JLlpHJbvhZJKGCRHVX2UUa2bxoe4G&usqp=CAU",
+            "type": "text",
+            "evaluation": "1"
+        },
+        {
+            "id": 107,
+            "price": "25000",
+            "name": "ejemplo",
+            "address": "Corral, Los Ríos, Chile",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnLruiHoB3cQk7iFGrez0JLlpHJbvhZJKGCRHVX2UUa2bxoe4G&usqp=CAU",
+            "type": "text",
+            "evaluation": "1"
+        },
+        {
+            "id": 108,
+            "price": "25000",
+            "name": "ejemplo2",
+            "address": "Corral, Los Ríos, Chile",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnLruiHoB3cQk7iFGrez0JLlpHJbvhZJKGCRHVX2UUa2bxoe4G&usqp=CAU",
+            "type": "text",
+            "evaluation": "1"
+        },
+        {
+            "id": 109,
+            "price": "25000",
+            "name": "ejemplo3",
+            "address": "Corral, Los Ríos, Chile",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnLruiHoB3cQk7iFGrez0JLlpHJbvhZJKGCRHVX2UUa2bxoe4G&usqp=CAU",
+            "type": "item 109",
+            "evaluation": "1"
+        },
+        {
+            "id": 110,
+            "price": "25000",
+            "name": "ejemplo4",
+            "address": "Corral, Los Ríos, Chile",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQnLruiHoB3cQk7iFGrez0JLlpHJbvhZJKGCRHVX2UUa2bxoe4G&usqp=CAU",
+            "type": "Cancha de tenis",
+            "evaluation": "1"
+        }
+    ],
+    "first_page_url": "https://github.com/DiegoArrieta/fakeDB/db.json?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "https://github.com/DiegoArrieta/fakeDB/db.json?page=1",
+    "next_page_url": null,
+    "path": "https://github.com/DiegoArrieta/fakeDB/db.json",
+    "per_page": 10,
+    "prev_page_url": null,
+    "to": 9,
+    "total": 9
+}
